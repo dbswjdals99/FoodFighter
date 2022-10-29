@@ -171,8 +171,10 @@
 
 
 ## 5. 사진
-![image](https://user-images.githubusercontent.com/56786339/198678337-5ce4632c-9da5-42e4-927f-80fd4ab79870.png)
-![image](https://user-images.githubusercontent.com/56786339/198678502-6bda3db7-85a7-4583-8907-4bc5bfa0cf34.png)
+![198678337-5ce4632c-9da5-42e4-927f-80fd4ab79870](https://user-images.githubusercontent.com/56786339/198813815-3e2fa0b1-4b75-433e-8490-13622d7ac716.png)
+![198678502-6bda3db7-85a7-4583-8907-4bc5bfa0cf34](https://user-images.githubusercontent.com/56786339/198813816-73921944-3f5a-4c9c-8b8e-5ea6cbec9390.png)
+
+
 
 
 ## 6. 프로젝트 바로가기
