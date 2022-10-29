@@ -169,7 +169,13 @@
 </details>
 <br>
 
-## 5. 프로젝트 바로가기
+
+## 5. 사진
+![image](https://user-images.githubusercontent.com/56786339/198678337-5ce4632c-9da5-42e4-927f-80fd4ab79870.png)
+![image](https://user-images.githubusercontent.com/56786339/198678502-6bda3db7-85a7-4583-8907-4bc5bfa0cf34.png)
+
+
+## 6. 프로젝트 바로가기
 #### 노션을 이용한 프로젝트 관리
 +  [푸드파이터 노션 바로가기](https://galvanized-jackal-cd2.notion.site/ba59ae10199e40789254536868868c84)
 +  [회의록 / 일정](https://galvanized-jackal-cd2.notion.site/e1f51b195ae24d2395388a9fb1785829?v=731bc292746d4945a9c254cf98027791) 
@@ -177,10 +183,6 @@
 +  [작업 현황](https://galvanized-jackal-cd2.notion.site/7f2ce6e1952d400ca1058b5454c1f225?v=eed1c16b7a9c42f6815c1cbf22156d2a) 
 +  [게시판](https://galvanized-jackal-cd2.notion.site/bf9f86a8828f46aaa67d10f79d25baa9?v=b9b32dc6e86045b19e8a300f0404b2eb) 
 +  [분석한 사이트](https://galvanized-jackal-cd2.notion.site/0546d030a7c949419cb000384f70a673?v=4e8d3334a9d94ff09ff1e7935cde70e6)
-
-## 6. 사진
-![image](https://user-images.githubusercontent.com/56786339/198678337-5ce4632c-9da5-42e4-927f-80fd4ab79870.png)
-![image](https://user-images.githubusercontent.com/56786339/198678502-6bda3db7-85a7-4583-8907-4bc5bfa0cf34.png)
 
 
 
