@@ -177,7 +177,7 @@
 
 
 ## 6. FoodFighter PPT 자료
-[FoodFighter PPT.pdf](https://github.com/dbswjdals99/foodfighter/files/10199960/FoodFighter.PPT.pdf)
+[구글 드라이브 PDF뷰어 보러가기](https://drive.google.com/file/d/1q3n8m-GLqOhiPH6eOW8Iv0RlMmUywze0/view?usp=sharing)
 
 
 
