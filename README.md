@@ -176,8 +176,8 @@
 
 
 
-## 6. FoodFighter PPT 자료
-[구글 드라이브 PDF뷰어 보러가기](https://drive.google.com/file/d/1q3n8m-GLqOhiPH6eOW8Iv0RlMmUywze0/view?usp=sharing)
+## 6. FoodFighter PPT
+[PPT ](https://drive.google.com/file/d/1q3n8m-GLqOhiPH6eOW8Iv0RlMmUywze0/view?usp=sharing)
 
 
 
