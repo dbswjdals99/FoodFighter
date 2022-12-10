@@ -176,8 +176,12 @@
 
 
 
+## 6. FoodFighter PPT 자료
+[FoodFighter PPT.pdf](https://github.com/dbswjdals99/foodfighter/files/10199960/FoodFighter.PPT.pdf)
 
-## 6. 프로젝트 바로가기
+
+
+## 7. 프로젝트 바로가기
 #### 노션을 이용한 프로젝트 관리
 +  [푸드파이터 노션 바로가기](https://galvanized-jackal-cd2.notion.site/ba59ae10199e40789254536868868c84)
 +  [회의록 / 일정](https://galvanized-jackal-cd2.notion.site/e1f51b195ae24d2395388a9fb1785829?v=731bc292746d4945a9c254cf98027791) 
