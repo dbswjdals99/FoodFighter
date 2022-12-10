@@ -177,7 +177,7 @@
 
 
 ## 6. FoodFighter PPT
-[PPT ](https://drive.google.com/file/d/1q3n8m-GLqOhiPH6eOW8Iv0RlMmUywze0/view?usp=sharing)
+[PPT 바로가기](https://drive.google.com/file/d/1q3n8m-GLqOhiPH6eOW8Iv0RlMmUywze0/view?usp=sharing)
 
 
 
